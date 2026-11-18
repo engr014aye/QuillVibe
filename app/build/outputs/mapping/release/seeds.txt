@@ -1,0 +1,1538 @@
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2
+androidx.compose.ui.platform.DragAndDropModifierOnDragListener$modifier$1
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25
+androidx.annotation.Keep
+androidx.startup.InitializationProvider
+androidx.navigation.compose.ComposeNavigator
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.compose.foundation.layout.SizeElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode$Companion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17
+com.nazeeran.quillvibe.notes.QuillVibeApp
+androidx.compose.foundation.MagnifierElement
+androidx.core.app.RemoteActionCompat
+androidx.compose.foundation.FocusableElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13
+androidx.graphics.path.PathIteratorPreApi34Impl
+androidx.compose.ui.focus.FocusRequesterElement
+androidx.compose.ui.layout.OnSizeChangedModifier
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist
+com.nazeeran.quillvibe.notes.data.model.NoteCategory
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4
+androidx.compose.foundation.BorderModifierNodeElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$5
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$20
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27
+androidx.compose.foundation.BackgroundElement
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1
+com.nazeeran.quillvibe.notes.data.model.NoteCategory$Companion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.compose.foundation.layout.LayoutWeightElement
+androidx.compose.ui.draw.DrawWithContentElement
+androidx.compose.ui.draw.DrawBehindElement
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$12
+androidx.compose.foundation.lazy.layout.TraversablePrefetchStateModifierElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$7
+androidx.compose.foundation.lazy.layout.LazyLayoutSemanticsModifier
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1
+androidx.compose.ui.graphics.GraphicsLayerElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$8
+androidx.compose.foundation.layout.BoxChildDataElement
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$10
+androidx.compose.ui.semantics.AppendedSemanticsElement
+androidx.compose.foundation.relocation.BringIntoViewRequesterElement
+androidx.lifecycle.ReportFragment
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist$special$$inlined$sortedBy$1
+kotlinx.coroutines.android.AndroidDispatcherFactory
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager
+androidx.profileinstaller.ProfileInstallReceiver
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.core.app.CoreComponentFactory
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$2
+androidx.compose.ui.focus.FocusPropertiesElement
+androidx.compose.ui.layout.OnGloballyPositionedElement
+androidx.navigation.NavGraphNavigator
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion
+androidx.compose.foundation.text.handwriting.StylusHandwritingElementWithNegativePadding
+androidx.compose.foundation.selection.ToggleableElement
+androidx.compose.foundation.ScrollSemanticsElement
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager$Companion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1
+androidx.compose.ui.focus.FocusChangedElement
+com.nazeeran.quillvibe.notes.data.local.BackupManager
+android.support.v4.app.RemoteActionCompatParcelizer
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23
+androidx.compose.foundation.ScrollingLayoutElement
+androidx.compose.ui.draw.PainterElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$11
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1
+androidx.versionedparcelable.ParcelImpl
+androidx.compose.animation.EnterExitTransitionElement
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.compose.foundation.layout.WrapContentElement
+androidx.compose.foundation.text.input.internal.LegacyAdaptingPlatformTextInputModifier
+androidx.navigation.compose.ComposeNavGraphNavigator
+androidx.graphics.path.ConicConverter
+androidx.compose.foundation.IndicationModifierElement
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1
+androidx.compose.material3.MinimumInteractiveModifier
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$9
+androidx.compose.foundation.layout.PaddingValuesElement
+androidx.compose.foundation.lazy.layout.LazyLayoutItemAnimator$DisplayingDisappearingItemsElement
+androidx.compose.ui.input.rotary.RotaryInputElement
+androidx.compose.foundation.layout.HorizontalAlignElement
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2
+androidx.compose.foundation.ClickableElement
+androidx.compose.ui.semantics.EmptySemanticsElement
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository
+androidx.compose.ui.layout.LayoutElement
+androidx.room.MultiInstanceInvalidationService
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18
+androidx.navigation.compose.DialogNavigator
+androidx.compose.foundation.CombinedClickableElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$24
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$6
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1
+com.nazeeran.quillvibe.notes.MainActivity
+androidx.compose.foundation.layout.IntrinsicWidthElement
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.compose.ui.draw.ShadowGraphicsLayerElement
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$DefaultImpls
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity
+androidx.core.graphics.drawable.IconCompat
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.navigation.ActivityNavigator
+androidx.compose.foundation.layout.PaddingElement
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+androidx.compose.foundation.layout.FillElement
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+androidx.compose.foundation.gestures.ScrollableElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.compose.material3.ThumbElement
+androidx.versionedparcelable.CustomVersionedParcelable
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase
+androidx.compose.ui.input.key.KeyInputElement
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl
+androidx.emoji2.text.EmojiCompatInitializer
+androidx.compose.ui.draw.DrawWithCacheElement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$12: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: int $stable
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: int I$1
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow hapticsEnabled
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: java.lang.String PREFS_NAME
+androidx.room.RoomDatabase: boolean writeAheadLoggingEnabled
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$5: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: boolean val$isDone
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+androidx.room.RoomDatabase: int MAX_BIND_PARAMETER_CNT
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isChecklist
+androidx.room.RoomDatabase: java.util.Map typeConverters
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode DARK
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: int position
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: long val$id
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.EntityDeletionOrUpdateAdapter __updateAdapterOfChecklistItemEntity
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: int $stable
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity note
+kotlinx.coroutines.flow.ChannelAsFlow: int consumed$volatile
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$11: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: boolean isDone
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+androidx.room.RoomDatabase: java.util.List mCallbacks
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long id
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1: com.nazeeran.quillvibe.notes.data.local.BackupManager this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: androidx.room.RoomSQLiteQuery val$_statement
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: java.lang.String displayName
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode$Companion Companion
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode[] $VALUES
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao _noteDao
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: int I$0
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: kotlin.enums.EnumEntries $ENTRIES
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfClearAllNotes
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: int $stable
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.RoomDatabase __db
+androidx.room.SharedSQLiteStatement: java.util.concurrent.atomic.AtomicBoolean lock
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: int colorIndex
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.MutableStateFlow _hapticsEnabled
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1: java.lang.Object result
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion Companion
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl this$0
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: java.lang.String KEY_IS_GRID_LAYOUT
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$20: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+androidx.room.RoomDatabase: androidx.room.AutoCloser autoCloser
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: int label
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory GENERAL
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: long J$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfDeleteChecklistItemsForNote
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalTransactionExecutor
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.EntityDeletionOrUpdateAdapter __updateAdapterOfNoteEntity
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: int I$2
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: java.lang.Object result
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: com.nazeeran.quillvibe.notes.data.local.BackupManager this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: boolean val$isPinned
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long noteId
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity val$note
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: java.lang.Object L$2
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1: int label
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: long val$id
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.util.List checklistItems
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: long J$0
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isPinned
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$8: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory WORK
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfHardDeleteNote
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: java.lang.Object L$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: long val$updatedAt
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+androidx.compose.foundation.lazy.layout.DefaultLazyKey: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: android.net.Uri $destinationUri
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1: com.nazeeran.quillvibe.notes.data.local.BackupManager this$0
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory IDEAS
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase $database
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory$Companion Companion
+androidx.room.SharedSQLiteStatement: kotlin.Lazy stmt$delegate
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long id
+androidx.room.RoomDatabase: java.util.concurrent.locks.ReentrantReadWriteLock readWriteLock
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteDatabase mDatabase
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback: kotlinx.coroutines.CoroutineScope scope
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28: androidx.room.RoomSQLiteQuery val$_statement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfSoftDeleteNote
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: java.lang.Object L$1
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: java.lang.Object result
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: int label
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: long val$updatedAt
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfEmptyTrash
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String title
+androidx.room.RoomDatabase: androidx.room.RoomDatabase$Companion Companion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfSetChecklistItemDone
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: long val$id
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1: java.lang.Object result
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: java.lang.String KEY_HAPTICS_ENABLED
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: int $stable
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl this$0
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: long J$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16: com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity val$item
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: int label
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.MutableStateFlow _isGridLayout
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$10: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode SYSTEM
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao noteDao
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.MutableStateFlow _themeMode
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: java.lang.Object result
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: int label
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow isGridLayout
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String category
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalQueryExecutor
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$6: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+androidx.room.RoomOpenHelper$Delegate: int version
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: android.content.SharedPreferences prefs
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: kotlin.enums.EnumEntries $ENTRIES
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker invalidationTracker
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: java.lang.Object L$0
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory[] $VALUES
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: java.lang.Object result
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: java.lang.Object L$0
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: java.lang.Object L$0
+androidx.room.RoomDatabase: boolean allowMainThreadQueries
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: androidx.room.RoomSQLiteQuery val$_statement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$24: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+androidx.room.RoomDatabase: java.util.Map backingFieldMap
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: android.net.Uri $sourceUri
+androidx.navigation.NavBackStackEntryState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+androidx.room.RoomDatabase: java.lang.ThreadLocal suspendingTransactionId
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: java.lang.Object L$1
+androidx.room.RoomDatabase: java.util.Map autoMigrationSpecs
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: int label
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfRestoreNote
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.EntityInsertionAdapter __insertionAdapterOfChecklistItemEntity
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long createdAt
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: java.lang.Object L$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$9: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29: androidx.room.RoomSQLiteQuery val$_statement
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22: long val$noteId
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper internalOpenHelper
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: long val$id
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: int $stable
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory PERSONAL
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: int $stable
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.EntityInsertionAdapter __insertionAdapterOfNoteEntity
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1: int label
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14: java.util.List val$items
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: androidx.room.RoomSQLiteQuery val$_statement
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: int label
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: java.lang.Object L$1
+com.nazeeran.quillvibe.notes.data.local.BackupManager: int $stable
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: long val$updatedAt
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isDeleted
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity val$note
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$7: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory ALL
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: java.lang.String KEY_THEME_MODE
+com.nazeeran.quillvibe.notes.data.local.BackupManager: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao noteDao
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase INSTANCE
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion this$0
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String content
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode LIGHT
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: java.lang.String title
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: int label
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow themeMode
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: com.nazeeran.quillvibe.notes.data.local.PreferencesManager$Companion Companion
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfSetPinStatus
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl this$0
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19: long val$id
+androidx.room.SharedSQLiteStatement: androidx.room.RoomDatabase database
+com.nazeeran.quillvibe.notes.data.local.BackupManager: android.content.Context context
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: com.nazeeran.quillvibe.notes.data.local.BackupManager this$0
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long updatedAt
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: java.lang.String text
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.TextToolbarHelperMethods: void invalidateContentRect(android.view.ActionMode)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: java.lang.String component3()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+androidx.compose.ui.text.android.Paint29: void getTextBounds(android.graphics.Paint,java.lang.CharSequence,int,int,android.graphics.Rect)
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.RectF,android.graphics.Paint)
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setText(android.view.ViewStructure,java.lang.CharSequence)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object getNoteByIdDirect(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity copy$default(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,long,java.lang.String,java.lang.String,java.lang.String,int,boolean,boolean,boolean,long,long,int,java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: boolean isTextSelectable(android.view.accessibility.AccessibilityNodeInfo)
+androidx.room.RoomDatabase: boolean isMainThread$room_runtime_release()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$6: java.lang.String createQuery()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,int,android.graphics.BlendMode)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: java.lang.Object invokeSuspend(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: AppThemeMode(java.lang.String,int,java.lang.String)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode$Companion: com.nazeeran.quillvibe.notes.data.model.AppThemeMode fromString(java.lang.String)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object getNoteByIdDirect(long,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: kotlin.enums.EnumEntries getEntries()
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setClassName(android.view.ViewStructure,java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.material.ripple.UnprojectedRipple$MRadiusHelper: void setRadius(android.graphics.drawable.RippleDrawable,int)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object restoreNote(long,kotlin.coroutines.Continuation)
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getParent(android.view.accessibility.AccessibilityNodeInfo,int)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Object[])
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$24: kotlin.Unit call()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setUniqueId(android.view.accessibility.AccessibilityNodeInfo,java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$DefaultImpls: java.lang.Object softDeleteNote$default(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,long,long,kotlin.coroutines.Continuation,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.compose.ui.window.PopupLayout: int getDisplayWidth()
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getChild(android.view.accessibility.AccessibilityNodeInfo,int,int)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems valueOf(java.lang.String)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.View)
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode[] values()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object getNoteByIdDirect(long,kotlin.coroutines.Continuation)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15: kotlin.Unit call()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: kotlinx.coroutines.flow.Flow getNoteById(long)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object clearAllNotes(kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: androidx.room.RoomOpenHelper$ValidationResult onValidateSchema(androidx.sqlite.db.SupportSQLiteDatabase)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object getNoteByIdDirect(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics_release(boolean)
+androidx.compose.ui.text.input.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.startup.InitializationProvider: InitializationProvider()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: kotlin.Unit call()
+androidx.compose.ui.autofill.AutofillApi26Helper: android.view.autofill.AutofillId getAutofillId(android.view.ViewStructure)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao noteDao()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.core.view.ViewCompat$Api30Impl: boolean isImportantForContentCapture(android.view.View)
+androidx.navigation.compose.BackStackEntryIdViewModel: BackStackEntryIdViewModel(androidx.lifecycle.SavedStateHandle)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewTextChanged(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,java.lang.CharSequence)
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingSlop(android.view.ViewConfiguration)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performInsertionOnLegacyTextField(int,java.lang.String,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1: NoteDao_Impl$1(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: java.lang.CharSequence getContainerTitle(android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: java.lang.Object call()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.room.EntityInsertionAdapter: java.util.List insertAndReturnIdsList(java.util.Collection)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onVirtualViewTranslationResponses(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,android.util.LongSparseArray)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: android.graphics.BlendModeColorFilter BlendModeColorFilter-xETnrds(long,int)
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteStatement compileStatement(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object saveNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object hardDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+androidx.navigation.NavBackStackEntry$SavedStateViewModel: NavBackStackEntry$SavedStateViewModel(androidx.lifecycle.SavedStateHandle)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isList(android.view.autofill.AutofillValue)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawTextRun(android.graphics.Canvas,android.graphics.text.MeasuredText,int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+androidx.core.os.BundleCompat$Api33Impl: android.util.SparseArray getSparseParcelableArray(android.os.Bundle,java.lang.String,java.lang.Class)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback: void onCreate(androidx.sqlite.db.SupportSQLiteDatabase)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29: java.util.List call()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.util.List getRequiredConverters()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long component1()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: NoteDao_Impl(androidx.room.RoomDatabase)
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.lang.String toString()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isDeleted()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.material3.ColorResourceHelper: long getColor-WaAFU9c(android.content.Context,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: long getMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo)
+androidx.room.RoomDatabase: void isOpenInternal$annotations()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.compose.ui.text.android.StaticLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.StaticLayout)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: kotlinx.coroutines.flow.Flow getNoteById(long)
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16: kotlin.Unit call()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: android.graphics.ColorSpace androidColorSpace(androidx.compose.ui.graphics.colorspace.ColorSpace)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long getId()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+androidx.room.RoomDatabase: java.util.concurrent.locks.Lock getCloseLock$room_runtime_release()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase getDatabase(android.content.Context,kotlinx.coroutines.CoroutineScope)
+androidx.room.RoomDatabase: void assertNotMainThread()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: com.nazeeran.quillvibe.notes.data.model.AppThemeMode loadThemeMode()
+kotlin.collections.AbstractMutableSet: AbstractMutableSet()
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingGestureLineMargin(android.view.ViewConfiguration)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallbackOnLegacyTextField(android.view.inputmethod.HandwritingGesture,kotlin.jvm.functions.Function1)
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object softDeleteNote(long,long,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: int getTotalCount()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState valueOf(java.lang.String)
+androidx.room.RoomDatabase: java.util.concurrent.Executor getTransactionExecutor()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: void finalize()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.room.RoomDatabase: java.lang.Object getTypeConverter(java.lang.Class)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long getNoteId()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: kotlinx.coroutines.flow.Flow getActiveNotes()
+androidx.room.EntityInsertionAdapter: long[] insertAndReturnIdsArray(java.util.Collection)
+androidx.room.RoomDatabase: java.lang.Object runInTransaction(java.util.concurrent.Callable)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.room.RoomDatabase: void beginTransaction()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object replaceChecklistItems(long,java.util.List,kotlin.coroutines.Continuation)
+androidx.room.RoomDatabase: java.util.List getAutoMigrations(java.util.Map)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+androidx.core.content.res.FontResourcesParserCompat$Api21Impl: int getType(android.content.res.TypedArray,int)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist$special$$inlined$sortedBy$1: int compare(java.lang.Object,java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean component8()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.os.CancellationSignal)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$5: NoteDao_Impl$5(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$DefaultImpls: java.lang.Object restoreNote$default(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,long,long,kotlin.coroutines.Continuation,int,java.lang.Object)
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19: NoteDao_Impl$19(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,long)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntSize getPopupContentSize-bOM6tXw()
+androidx.compose.ui.text.font.TypefaceHelperMethodsApi28: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+androidx.compose.foundation.Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+androidx.room.MultiInstanceInvalidationService: MultiInstanceInvalidationService()
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+androidx.compose.ui.window.PopupLayout: void setLayoutDirection(int)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus valueOf(java.lang.String)
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+androidx.core.view.ViewCompat$Api29Impl: void setContentCaptureSession(android.view.View,androidx.core.view.contentcapture.ContentCaptureSessionCompat)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$8: java.lang.String createQuery()
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent valueOf(java.lang.String)
+androidx.room.Index$Order: androidx.room.Index$Order[] values()
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.scrollcapture.ScrollCapture: void onScrollCaptureSearch(android.view.View,androidx.compose.ui.semantics.SemanticsOwner,kotlin.coroutines.CoroutineContext,java.util.function.Consumer)
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+androidx.compose.foundation.text.input.internal.LocaleListHelper: void setHintLocales(android.view.inputmethod.EditorInfo,androidx.compose.ui.text.intl.LocaleList)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemColumnTitle(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object restoreNote(long,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2: java.lang.String createQuery()
+com.nazeeran.quillvibe.notes.data.local.BackupManager: BackupManager(android.content.Context,com.nazeeran.quillvibe.notes.data.local.dao.NoteDao)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean equals(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: androidx.sqlite.db.SupportSQLiteOpenHelper createOpenHelper(androidx.room.DatabaseConfiguration)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performSelectionOnLegacyTextField-8ffj60Q(long,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui_release()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float[],android.graphics.RectF,float[],android.graphics.Paint)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems[] values()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: NoteEntity()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: void clearAllTables()
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.compose.ui.text.android.StaticLayoutFactory23: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void onOpen(androidx.sqlite.db.SupportSQLiteDatabase)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isChecklist()
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long getId()
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object updateNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object setPinStatus(long,boolean,long,kotlin.coroutines.Continuation)
+androidx.compose.ui.window.PopupLayout: int getDisplayHeight()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: boolean isAllDone()
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.jvm.functions.Function1 getConfigurationChangeObserver()
+androidx.compose.ui.window.Api33Impl: android.window.OnBackInvokedCallback createBackCallback(kotlin.jvm.functions.Function0)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void onPostMigrate(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$12: java.lang.String createQuery()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String getContent()
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode[] $values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow getHapticsEnabled()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.compose.ui.window.PopupLayout: android.view.View getViewRoot()
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui_release(long)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.model.NoteCategory$Companion: NoteCategory$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow getThemeMode()
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+androidx.core.os.BundleCompat$Api33Impl: java.lang.Object[] getParcelableArray(android.os.Bundle,java.lang.String,java.lang.Class)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: java.lang.String getText()
+androidx.room.RoomDatabase: void clearAllTables()
+androidx.compose.ui.autofill.AutofillApi26Helper: java.lang.CharSequence textValue(android.view.autofill.AutofillValue)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long getCreatedAt()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: kotlin.Unit call()
+androidx.compose.foundation.text.input.internal.EditorInfoApi34: void setHandwritingGestures(android.view.inputmethod.EditorInfo)
+androidx.compose.ui.window.PopupLayout: void getParams$ui_release$annotations()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory[] values()
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: void setHapticsEnabled(boolean)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$20: kotlin.Unit call()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long getUpdatedAt()
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object saveNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: kotlinx.coroutines.flow.StateFlow isGridLayout()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: int component5()
+androidx.room.RoomDatabase: void access$internalEndTransaction(androidx.room.RoomDatabase)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: kotlin.enums.EnumEntries getEntries()
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: boolean previewHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.PreviewableHandwritingGesture,android.os.CancellationSignal)
+com.nazeeran.quillvibe.notes.data.model.NoteCategory$Companion: com.nazeeran.quillvibe.notes.data.model.NoteCategory fromString(java.lang.String)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode$Companion: AppThemeMode$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getUniqueId(android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillHints(android.view.ViewStructure,java.lang.String[])
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19: java.lang.Object call()
+androidx.compose.ui.graphics.Api26Bitmap: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace$ui_graphics_release(android.graphics.Bitmap)
+androidx.compose.ui.window.PopupLayout: boolean getShouldCreateCompositionOnAttachedToWindow()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.compose.ui.platform.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String toString()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.List access$400(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,int,int,int,int)
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.room.RoomDatabase: void close()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper createOpenHelper(androidx.room.DatabaseConfiguration)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$populateInitialData$1: QuillVibeDatabase$Companion$populateInitialData$1(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion,kotlin.coroutines.Continuation)
+androidx.activity.EdgeToEdgeApi30: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: NoteDao_Impl$27(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object softDeleteNote(long,long,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void onPreMigrate(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.autofill.AutofillId newAutofillId(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$2(androidx.compose.material.ripple.RippleHostView)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState valueOf(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.ui.text.android.CanvasCompatS: void drawGlyphs(android.graphics.Canvas,int[],int,float[],int,int,android.graphics.fonts.Font,android.graphics.Paint)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.core.view.DisplayCutoutCompat$Api30Impl: android.graphics.Insets getWaterfallInsets(android.view.DisplayCutout)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$2: NoteDao_Impl$2(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.ViewLayer$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.Object createRangeInfo(int,float,float,float)
+androidx.room.EntityInsertionAdapter: long[] insertAndReturnIdsArray(java.lang.Object[])
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.nazeeran.quillvibe.notes.data.local.BackupManager: android.content.Context access$getContext$p(com.nazeeran.quillvibe.notes.data.local.BackupManager)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: int hashCode()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: boolean loadGridLayout()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion: QuillVibeDatabase$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$20: java.lang.Object call()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand[] values()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.RectF)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: java.lang.Object localeSpan(androidx.compose.ui.text.intl.LocaleList)
+androidx.room.RoomDatabase: void internalInitInvalidationTracker(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.app.ActivityCompat$Api23Impl: void onSharedElementsReady(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object insertChecklistItems(java.util.List,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3: java.lang.String createQuery()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: kotlin.Unit lambda$__fetchRelationshipchecklistItemsAscomNazeeranQuillvibeNotesDataLocalEntityChecklistItemEntity$1(androidx.collection.LongSparseArray)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase access$getINSTANCE$cp()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$11: java.lang.String createQuery()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: BackupManager$exportBackup$2(com.nazeeran.quillvibe.notes.data.local.BackupManager,android.net.Uri,kotlin.coroutines.Continuation)
+androidx.compose.ui.window.PopupLayout: void setContent(kotlin.jvm.functions.Function2)
+androidx.compose.ui.text.android.StaticLayoutFactoryDefault: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.core.app.ActivityCompat$Api23Impl: boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: android.view.accessibility.AccessibilityNodeInfo$ExtraRenderingInfo getExtraRenderingInfo(android.view.accessibility.AccessibilityNodeInfo)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: int component5()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: kotlinx.coroutines.flow.Flow getTrashNotesWithChecklists()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: androidx.compose.ui.graphics.BlendModeColorFilter createBlendModeColorFilter(android.graphics.BlendModeColorFilter)
+androidx.core.view.DisplayCutoutCompat$Api30Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Insets,android.graphics.Rect,android.graphics.Rect,android.graphics.Rect,android.graphics.Rect,android.graphics.Insets)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity component1()
+androidx.room.RoomDatabase: java.util.Map getAutoMigrationSpecs()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: kotlinx.coroutines.flow.Flow getTrashNotes()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$20: NoteDao_Impl$20(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl)
+androidx.compose.ui.platform.AndroidComposeView: void setConfigurationChangeObserver(kotlin.jvm.functions.Function1)
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object insertNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: NoteDao_Impl$18(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,long,long)
+androidx.compose.ui.autofill.AutofillCallback: void unregister(androidx.compose.ui.autofill.AndroidAutofill)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.LayoutDirection getParentLayoutDirection()
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: kotlinx.coroutines.flow.Flow getActiveNotesWithChecklists()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: boolean loadHapticsEnabled()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor valueOf(java.lang.String)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics_release()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15: java.lang.Object call()
+androidx.compose.ui.text.android.StaticLayoutFactory28: void setUseLineSpacingFromFallbacks(android.text.StaticLayout$Builder,boolean)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: void access$setINSTANCE$cp(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase)
+androidx.room.RoomDatabase: void setAutoMigrationSpecs(java.util.Map)
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle[] values()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isToggle(android.view.autofill.AutofillValue)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize valueOf(java.lang.String)
+androidx.room.RoomDatabase: void endTransaction()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewAppeared(android.view.contentcapture.ContentCaptureSession,android.view.ViewStructure)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29: NoteDao_Impl$29(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.Path)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: NoteDao_Impl$21(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,boolean,long,long)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api24Impl: void addSetProgressAction(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+androidx.compose.ui.window.PopupLayout: android.view.WindowManager$LayoutParams getParams$ui_release()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: NoteWithChecklist(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui_release()
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.RectF)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: void access$300(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl,androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.compose.foundation.Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.util.List getSortedChecklistItems()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: androidx.sqlite.db.SupportSQLiteDatabase access$202(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl,androidx.sqlite.db.SupportSQLiteDatabase)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion: java.lang.Object access$populateInitialData(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion,com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,kotlin.coroutines.Continuation)
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState[] values()
+androidx.compose.ui.text.android.StaticLayoutFactoryImpl: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$7: java.lang.String createQuery()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.List access$100(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void createAllTables(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.text.android.CanvasCompatQ: void enableZ(android.graphics.Canvas)
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper getOpenHelper()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object insertNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$27: com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist call()
+androidx.compose.ui.window.PopupLayout: void setPositionProvider(androidx.compose.ui.window.PopupPositionProvider)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object insertChecklistItems(java.util.List,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$24: NoteDao_Impl$24(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: QuillVibeDatabase_Impl()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setQueryFromAppProcessEnabled(android.view.accessibility.AccessibilityNodeInfo,android.view.View,boolean)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui_release(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior[] values()
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.room.SharedSQLiteStatement: androidx.sqlite.db.SupportSQLiteStatement access$createNewStatement(androidx.room.SharedSQLiteStatement)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+androidx.compose.ui.platform.TextToolbarHelperMethods: android.view.ActionMode startActionMode(android.view.View,android.view.ActionMode$Callback,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean hasRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: boolean component4()
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal)
+androidx.room.RoomDatabase: void isOpen$annotations()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object softDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object setPinStatus(long,boolean,kotlin.coroutines.Continuation)
+androidx.room.RoomOpenHelper$Delegate: void validateMigration(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.room.RoomDatabase: void getMCallbacks$annotations()
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void resetPivot(android.view.View)
+androidx.compose.ui.graphics.AndroidGraphicsContext$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1: FocusableKt$FocusableInNonTouchModeElement$1()
+androidx.room.SharedSQLiteStatement: androidx.sqlite.db.SupportSQLiteStatement acquire()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.core.os.BundleCompat$Api33Impl: java.lang.Object getParcelable(android.os.Bundle,java.lang.String,java.lang.Class)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.BackupManager: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao access$getNoteDao$p(com.nazeeran.quillvibe.notes.data.local.BackupManager)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object toggleChecklistItem(long,boolean,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void onCreate(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.room.EntityInsertionAdapter: java.util.List insertAndReturnIdsList(java.lang.Object[])
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3: NoteDao_Impl$3(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist copy$default(com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist,com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long component1()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: ChecklistItemEntity(long,long,java.lang.String,boolean,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$21: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$1: BackupManager$exportBackup$1(com.nazeeran.quillvibe.notes.data.local.BackupManager,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui_release$annotations()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setContainerTitle(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: void setTextLocales(androidx.compose.ui.text.platform.AndroidTextPaint,androidx.compose.ui.text.intl.LocaleList)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.Rect,android.graphics.Paint)
+androidx.compose.ui.text.input.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist$special$$inlined$sortedBy$1: NoteWithChecklist$special$$inlined$sortedBy$1()
+androidx.room.RoomDatabase: android.database.Cursor query(java.lang.String,java.lang.Object[])
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+androidx.room.RoomDatabase: void getMDatabase$annotations()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4: NoteDao_Impl$4(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object hardDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor[] values()
+androidx.core.view.ViewCompat$Api29Impl: void setSystemGestureExclusionRects(android.view.View,java.util.List)
+androidx.compose.ui.platform.RenderNodeApi29VerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object softDeleteNote(long,kotlin.coroutines.Continuation)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setTextSelectable(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+androidx.compose.foundation.text.input.internal.Api34StartStylusHandwriting: void startStylusHandwriting(android.view.inputmethod.InputMethodManager,android.view.View)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.Map getRequiredTypeConverters()
+androidx.core.view.ViewCompat$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,float,float,float,float)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity getNote()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$11: NoteDao_Impl$11(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: java.lang.Object call()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api29Impl: void addPageActions(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: NoteDao_Impl$26(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object updateChecklistItem(com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity,kotlin.coroutines.Continuation)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long,android.graphics.BlendMode)
+androidx.navigation.compose.DialogNavigator: DialogNavigator()
+androidx.room.RoomDatabase: android.database.Cursor query$default(androidx.room.RoomDatabase,androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String component3()
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: java.lang.Object call()
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledHorizontalScrollFactor(android.view.ViewConfiguration)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillId(android.view.ViewStructure,android.view.autofill.AutofillId,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui_release()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object saveChecklist(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: int hashCode()
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,char[],int,int,int,int,float,float,boolean,android.graphics.Paint)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase,kotlin.coroutines.Continuation)
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+androidx.compose.ui.text.android.CanvasCompatQ: void disableZ(android.graphics.Canvas)
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: void __fetchRelationshipchecklistItemsAscomNazeeranQuillvibeNotesDataLocalEntityChecklistItemEntity(androidx.collection.LongSparseArray)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.graphics.Api26Bitmap: android.graphics.Bitmap createBitmap-x__-hDU$ui_graphics_release(int,int,int,boolean,androidx.compose.ui.graphics.colorspace.ColorSpace)
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.compose.ui.text.android.BoringLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.BoringLayout)
+androidx.navigation.NavControllerViewModel: NavControllerViewModel()
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: java.util.List call()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean isAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object restoreNote(long,long,kotlin.coroutines.Continuation)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction getActionScrollInDirection()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long component9()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$26: void finalize()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.Set getRequiredAutoMigrationSpecs()
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory valueOf(java.lang.String)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.Rect)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: void setThemeMode(com.nazeeran.quillvibe.notes.data.model.AppThemeMode)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,android.os.CancellationSignal)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.lang.String getProgressText()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api34Impl: void notifyViewsAppeared(android.view.contentcapture.ContentCaptureSession,java.util.List)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+androidx.room.EntityDeletionOrUpdateAdapter: int handleMultiple(java.lang.Iterable)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+androidx.room.RoomDatabase$Callback: void onDestructiveMigration(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String component2()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: void setGridLayout(boolean)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onCreateVirtualViewTranslationRequests(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,long[],int[],java.util.function.Consumer)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+kotlin.collections.AbstractList: AbstractList()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.List access$000(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: kotlinx.coroutines.flow.Flow getActiveNotesWithChecklists()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui_release()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType[] values()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.platform.AbstractComposeView getSubCompositionView()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace(android.graphics.ColorSpace)
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillType(android.view.ViewStructure,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16: NoteDao_Impl$16(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13: NoteDao_Impl$13(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity)
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery)
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawRenderNode(android.graphics.Canvas,android.graphics.RenderNode)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13: java.lang.Long call()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean component7()
+androidx.room.RoomDatabase: boolean isOpen()
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+androidx.room.EntityInsertionAdapter: long insertAndReturnId(java.lang.Object)
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName[] values()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.compose.ui.platform.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.util.List getChecklistItems()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase: QuillVibeDatabase()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: kotlinx.coroutines.flow.Flow getTrashNotesWithChecklists()
+androidx.core.os.BundleApi21ImplKt: void putSize(android.os.Bundle,java.lang.String,android.util.Size)
+androidx.compose.ui.input.pointer.MotionEventHelper: long toRawOffset-dBAh8RU(android.view.MotionEvent,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode$Companion: AppThemeMode$Companion()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: NoteDao_Impl$17(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,long,long)
+androidx.activity.EdgeToEdgeApi23: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.room.RoomDatabase: java.util.concurrent.Executor getQueryExecutor()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object setChecklistItemDone(long,boolean,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: int getColorIndex()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.navigation.compose.ComposeNavigator: ComposeNavigator()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$16: java.lang.Object call()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22: kotlin.Unit call()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$9: NoteDao_Impl$9(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String getCategory()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: int hashCode()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: java.util.List call()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: int getDoneCount()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: long component2()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object deleteChecklistItemsForNote(long,kotlin.coroutines.Continuation)
+androidx.room.RoomDatabase: void access$internalBeginTransaction(androidx.room.RoomDatabase)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletion-Sb-Bc2M(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,long,boolean)
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledVerticalScrollFactor(android.view.ViewConfiguration)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: kotlin.Unit call()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewsDisappeared(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long[])
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: java.util.List component2()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28: com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist call()
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.compose.ui.window.PopupLayout: kotlin.jvm.functions.Function2 getContent()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4: java.lang.String createQuery()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14: java.lang.Object call()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$DefaultImpls: java.lang.Object setPinStatus$default(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,long,boolean,long,kotlin.coroutines.Continuation,int,java.lang.Object)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.room.RoomDatabase: void assertNotSuspendingTransaction()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setContentDescription(android.view.ViewStructure,java.lang.CharSequence)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int toTextGranularity-NUwxegE(int)
+androidx.activity.EdgeToEdgeApi26: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker createInvalidationTracker()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object hardDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$12: NoteDao_Impl$12(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.graphics.layer.OutlineVerificationHelper: void setPath(android.graphics.Outline,androidx.compose.ui.graphics.Path)
+androidx.compose.ui.platform.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.room.RoomDatabase: boolean isOpenInternal()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isDate(android.view.autofill.AutofillValue)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1: java.lang.String createQuery()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: NoteEntity(long,java.lang.String,java.lang.String,java.lang.String,int,boolean,boolean,boolean,long,long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+androidx.compose.ui.text.android.StaticLayoutFactory33: void setLineBreakConfig(android.text.StaticLayout$Builder,int,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: void setStateDescription(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat buildCollectionItemInfoCompat(boolean,int,int,int,int,boolean,java.lang.String,java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize[] values()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: boolean equals(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: NoteRepositoryImpl(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object hardDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist copy(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List)
+com.nazeeran.quillvibe.notes.MainActivity: MainActivity()
+kotlin.collections.AbstractMutableList: AbstractMutableList()
+kotlin.random.Random: Random()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object restoreNote(long,long,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: java.lang.Object toggleChecklistItem(long,boolean,kotlin.coroutines.Continuation)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28: NoteDao_Impl$28(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object setPinStatus(long,boolean,long,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.BackupManager: java.lang.Object exportBackup-gIAlu-s(android.net.Uri,kotlin.coroutines.Continuation)
+androidx.compose.ui.autofill.AutofillApi23Helper: void setId(android.view.ViewStructure,int,java.lang.String,java.lang.String,java.lang.String)
+androidx.core.view.ViewCompat$Api29Impl: java.util.List getSystemGestureExclusionRects(android.view.View)
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: NoteCategory(java.lang.String,int,java.lang.String)
+androidx.room.RoomDatabase: java.util.Map getRequiredTypeConverters()
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+androidx.compose.ui.window.PopupLayout: java.lang.String getTestTag()
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.platform.WrapperRenderNodeLayerHelperMethods: void onDescendantInvalidated(androidx.compose.ui.platform.AndroidComposeView)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveNote$1: NoteRepositoryImpl$saveNote$1(com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$DefaultImpls: java.lang.Object replaceChecklistItems(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,long,java.util.List,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.compose.ui.window.Api33Impl: void maybeUnregisterBackCallback(android.view.View,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallback(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.room.SharedSQLiteStatement: void release(androidx.sqlite.db.SupportSQLiteStatement)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.layout.LayoutCoordinates getParentLayoutCoordinates()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$9: java.lang.String createQuery()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$2: BackupManager$importBackup$2(com.nazeeran.quillvibe.notes.data.local.BackupManager,android.net.Uri,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api26Impl: android.view.autofill.AutofillId getAutofillId(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo,long)
+androidx.room.SharedSQLiteStatement: void assertNotMainThread()
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+androidx.core.view.WindowCompat$Api30Impl: void setDecorFitsSystemWindows(android.view.Window,boolean)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$24: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$exportBackup$2: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.room.EntityDeletionOrUpdateAdapter: int handle(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: java.util.List getAutoMigrations(java.util.Map)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,float,float,float,float)
+androidx.core.view.ViewCompat$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: QuillVibeDatabase_Impl$1(com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl,int)
+com.nazeeran.quillvibe.notes.QuillVibeApp: QuillVibeApp()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$28: java.lang.Object call()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl$1: void dropAllTables(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$29: java.lang.Object call()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: void performHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.HandwritingGesture,androidx.compose.ui.platform.ViewConfiguration,java.util.concurrent.Executor,java.util.function.IntConsumer,kotlin.jvm.functions.Function1)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: NoteDao$replaceChecklistItems$1(kotlin.coroutines.Continuation)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object replaceChecklistItems(long,java.util.List,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+com.nazeeran.quillvibe.notes.data.model.NoteCategory$Companion: NoteCategory$Companion()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$6: NoteDao_Impl$6(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.room.RoomDatabase: void init(androidx.room.DatabaseConfiguration)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.BackupManager: java.lang.Object importBackup-gIAlu-s(android.net.Uri,kotlin.coroutines.Continuation)
+androidx.activity.EdgeToEdgeApi29: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: NoteDao_Impl$25(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: ChecklistItemEntity()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean component6()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion: java.lang.Object populateInitialData(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion: QuillVibeDatabase$Companion()
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.room.RoomDatabase$Callback: void onOpen(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.core.graphics.PaintCompat$Api23Impl: boolean hasGlyph(android.graphics.Paint,java.lang.String)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+androidx.room.EntityInsertionAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(java.util.Collection)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: com.nazeeran.quillvibe.notes.data.model.NoteCategory[] $values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemRowTitle(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: kotlinx.coroutines.flow.Flow getNoteById(long)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: NoteWithChecklist(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List)
+androidx.core.view.ViewCompat$Api30Impl: int getImportantForContentCapture(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.compose.foundation.Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+androidx.compose.ui.text.android.StaticLayoutFactory26: void setJustificationMode(android.text.StaticLayout$Builder,int)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+androidx.compose.ui.graphics.CanvasZHelper: void enableZ(android.graphics.Canvas,boolean)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback$onCreate$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: androidx.room.InvalidationTracker createInvalidationTracker()
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent[] values()
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption[] values()
+androidx.room.RoomDatabase: void runInTransaction(java.lang.Runnable)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager$Companion: PreferencesManager$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+androidx.room.Index$Order: androidx.room.Index$Order valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$23: NoteDao_Impl$23(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,boolean,long)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: ChecklistItemEntity(long,long,java.lang.String,boolean,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.compose.ui.window.PopupLayout: void setTestTag(java.lang.String)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: int getPosition()
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.text.android.AndroidLayoutApi34: int[] getRangeForRect$ui_text_release(androidx.compose.ui.text.android.TextLayout,android.graphics.RectF,int,kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$4: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$10: java.lang.String createQuery()
+androidx.core.os.BundleCompat$Api33Impl: java.io.Serializable getSerializable(android.os.Bundle,java.lang.String,java.lang.Class)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14: NoteDao_Impl$14(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,java.util.List)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager$Companion: PreferencesManager$Companion()
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+androidx.room.EntityInsertionAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(java.lang.Object[])
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object deleteChecklistItemsForNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.autofill.AutofillCallback: void register(androidx.compose.ui.autofill.AndroidAutofill)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$8: NoteDao_Impl$8(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.compose.ui.autofill.AutofillApi23Helper: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Iterable)
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+androidx.compose.ui.window.PopupLayout: void setPopupContentSize-fhxjrPA(androidx.compose.ui.unit.IntSize)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: boolean isDone()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.nazeeran.quillvibe.notes.data.local.BackupManager$importBackup$1: BackupManager$importBackup$1(com.nazeeran.quillvibe.notes.data.local.BackupManager,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object setPinStatus(long,boolean,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object getAllNotesWithChecklistsDirect(kotlin.coroutines.Continuation)
+androidx.room.EntityDeletionOrUpdateAdapter: int handleMultiple(java.lang.Object[])
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setTextStyle(android.view.ViewStructure,float,int,int,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object getAllNotesWithChecklistsDirect(kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepository: kotlinx.coroutines.flow.Flow getTrashNotes()
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType[] values()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String component4()
+androidx.compose.ui.text.platform.Api28Impl: android.text.style.TypefaceSpan createTypefaceSpan(android.graphics.Typeface)
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase$Companion$DatabaseCallback: QuillVibeDatabase$Companion$DatabaseCallback(kotlinx.coroutines.CoroutineScope)
+androidx.core.os.BundleCompat$Api33Impl: java.util.ArrayList getParcelableArrayList(android.os.Bundle,java.lang.String,java.lang.Class)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl$saveChecklist$1: NoteRepositoryImpl$saveChecklist$1(com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl,kotlin.coroutines.Continuation)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object updateChecklistItem(com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity,kotlin.coroutines.Continuation)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,boolean,android.text.TextUtils$TruncateAt,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: kotlinx.coroutines.flow.Flow getNoteById(long)
+androidx.activity.EdgeToEdgeApi21: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+com.nazeeran.quillvibe.notes.data.local.QuillVibeDatabase_Impl: com.nazeeran.quillvibe.notes.data.local.dao.NoteDao noteDao()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.room.RoomDatabase: void setTransactionSuccessful()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$10: NoteDao_Impl$10(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+androidx.room.RoomDatabase: java.util.Map getBackingFieldMap()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$19: kotlin.Unit call()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object clearAllNotes(kotlin.coroutines.Continuation)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,java.lang.CharSequence,int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.autofill.AutofillApi23Helper: android.view.ViewStructure newChild(android.view.ViewStructure,int)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+androidx.compose.ui.autofill.AutofillApi23Helper: int addChildCount(android.view.ViewStructure,int)
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt: androidx.compose.runtime.ProvidableCompositionLocal getLocalLifecycleOwner()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object lambda$replaceChecklistItems$0(long,java.util.List,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.room.RoomDatabase: java.lang.ThreadLocal getSuspendingTransactionId()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: java.lang.String getTitle()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$7: NoteDao_Impl$7(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+androidx.compose.ui.window.Api33Impl: void maybeRegisterBackCallback(android.view.View,java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void getBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$3: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: java.lang.String getTitle()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao$replaceChecklistItems$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$25: void finalize()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity copy$default(com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity,long,long,java.lang.String,boolean,int,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.room.RoomDatabase: boolean inTransaction()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+androidx.compose.ui.graphics.WrapperVerificationHelperMethods: void setBlendMode-GB0RdKg(android.graphics.Paint,int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+com.nazeeran.quillvibe.notes.data.local.PreferencesManager: PreferencesManager(android.content.Context)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+androidx.room.RoomDatabase: java.util.Set getRequiredAutoMigrationSpecs()
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: java.lang.Object saveChecklist(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,java.util.List,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: boolean equals(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: long component10()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutPath(android.graphics.Canvas,android.graphics.Path)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.repository.NoteRepositoryImpl: kotlinx.coroutines.flow.Flow getActiveNotes()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$22: NoteDao_Impl$22(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,long)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$18: kotlin.Unit call()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+androidx.compose.ui.text.android.selection.Api34SegmentFinder: android.text.SegmentFinder toAndroidSegmentFinder$ui_text_release(androidx.compose.ui.text.android.selection.SegmentFinder)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: boolean isPinned()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$17: java.lang.Object call()
+androidx.activity.EdgeToEdgeApi28: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isText(android.view.autofill.AutofillValue)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$13: java.lang.Object call()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float,float,android.graphics.RectF,float,float,android.graphics.Paint)
+androidx.core.os.BundleApi21ImplKt: void putSizeF(android.os.Bundle,java.lang.String,android.util.SizeF)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newVirtualViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.window.PopupPositionProvider getPositionProvider()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$15: NoteDao_Impl$15(com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl,com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity)
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Object)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$5: java.lang.String createQuery()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteWithChecklist: float getProgress()
+androidx.compose.ui.window.PopupLayout: boolean getCanCalculatePosition()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao: java.lang.Object setChecklistItemDone(long,boolean,kotlin.coroutines.Continuation)
+com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity: com.nazeeran.quillvibe.notes.data.local.entity.ChecklistItemEntity copy(long,long,java.lang.String,boolean,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletionOnLegacyTextField-vJH6DeI(long,androidx.compose.ui.text.AnnotatedString,boolean,kotlin.jvm.functions.Function1)
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl: java.lang.Object updateNote(com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+androidx.compose.material3.MinimumInteractiveModifier: MinimumInteractiveModifier()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.nazeeran.quillvibe.notes.data.local.dao.NoteDao_Impl$14: kotlin.Unit call()
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: NoteEntity(long,java.lang.String,java.lang.String,java.lang.String,int,boolean,boolean,boolean,long,long)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker getInvalidationTracker()
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.core.app.ActivityCompat$Api23Impl: void requestPermissions(android.app.Activity,java.lang.String[],int)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity: com.nazeeran.quillvibe.notes.data.local.entity.NoteEntity copy(long,java.lang.String,java.lang.String,java.lang.String,int,boolean,boolean,boolean,long,long)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+com.nazeeran.quillvibe.notes.data.model.AppThemeMode: com.nazeeran.quillvibe.notes.data.model.AppThemeMode valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+com.nazeeran.quillvibe.notes.data.model.NoteCategory: java.lang.String getDisplayName()
